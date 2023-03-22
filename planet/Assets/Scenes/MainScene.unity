@@ -1539,11 +1539,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6368843382598228622, guid: 22858098eefb1524bb269f7d6eed81a9, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6368843382763440670, guid: 22858098eefb1524bb269f7d6eed81a9, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6368843383244666557, guid: 22858098eefb1524bb269f7d6eed81a9, type: 3}
       propertyPath: m_Layer
@@ -1614,15 +1614,35 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6368843383637553664, guid: 22858098eefb1524bb269f7d6eed81a9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5543529
+      objectReference: {fileID: 0}
+    - target: {fileID: 6368843383637553664, guid: 22858098eefb1524bb269f7d6eed81a9, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.08
       objectReference: {fileID: 0}
     - target: {fileID: 6368843383637553664, guid: 22858098eefb1524bb269f7d6eed81a9, type: 3}
       propertyPath: m_LocalPosition.y
+      value: -0.236
+      objectReference: {fileID: 0}
+    - target: {fileID: 6368843383637553665, guid: 22858098eefb1524bb269f7d6eed81a9, type: 3}
+      propertyPath: m_Mass
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6368843383637553665, guid: 22858098eefb1524bb269f7d6eed81a9, type: 3}
+      propertyPath: m_BodyType
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6368843383637553665, guid: 22858098eefb1524bb269f7d6eed81a9, type: 3}
       propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6368843383637553667, guid: 22858098eefb1524bb269f7d6eed81a9, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6368843383637553667, guid: 22858098eefb1524bb269f7d6eed81a9, type: 3}
+      propertyPath: m_Offset.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6368843383637553667, guid: 22858098eefb1524bb269f7d6eed81a9, type: 3}

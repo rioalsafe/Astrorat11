@@ -22,10 +22,12 @@ public class Bullet : MonoBehaviour
         
     }
 
+    
     private void DisableObject()
     {
         gameObject.SetActive(false);
     }
+    
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
